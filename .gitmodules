@@ -1,0 +1,3 @@
+[submodule "git_submodule_folder"]
+	path = git_submodule_folder
+	url = https://github.com/anmolmishra334/test_repo.git
